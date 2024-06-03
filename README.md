@@ -21,10 +21,10 @@ login-page/
 <h2>Instalação</h2>
 <ol>
     <li>Clone o repositório:
-        <pre><code>git clone https://github.com/sucloudflare/delivery.git</code></pre>
+        <pre><code>git clone https://github.com/sucloudflare/login-react.git</code></pre>
     </li>
     <li>Navegue até o diretório do projeto:
-        <pre><code>cd delivery</code></pre>
+        <pre><code>cd login-react</code></pre>
     </li>
     <li>Instale as dependências:
         <pre><code>npm install</code></pre>
