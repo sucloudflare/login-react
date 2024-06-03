@@ -1,0 +1,77 @@
+.login-background {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/3b6e1e35-c8a7-48ff-b39b-25c5a01b23ee/7baf8e7d-3be0-471d-8f9b-90e177fc7ed7/BR-pt-20210503-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-container {
+    background: rgba(0, 0, 0, 0.75);
+    padding: 60px 68px 40px;
+    border-radius: 5px;
+    color: white;
+    max-width: 450px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .login-container h2 {
+    margin-bottom: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 16px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #333;
+    color: white;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #e50914;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 24px;
+  }
+  
+  .form-options {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+  }
+  
+  .form-options a {
+    color: #b3b3b3;
+    text-decoration: none;
+  }
+  
+  .facebook-login {
+    margin-top: 24px;
+  }
+  
+  .facebook-login a {
+    color: #3b5998;
+    text-decoration: none;
+  }
+  
+  .signup-now {
+    margin-top: 24px;
+  }
+  
+  .signup-now a {
+    color: white;
+    text-decoration: none;
+  }
+  
