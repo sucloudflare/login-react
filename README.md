@@ -33,7 +33,7 @@ login-page/
 
 <h2>Uso</h2>
 <p>Para iniciar o projeto, execute o seguinte comando:</p>
-<pre><code>npm start</code></pre>
+<pre><code>npm run start</code></pre>
 <p>Isso iniciará o servidor de desenvolvimento e abrirá a aplicação no navegador padrão. A página de login deve ser exibida.</p>
 
 <h2>Estrutura e Explicação do Código</h2>
